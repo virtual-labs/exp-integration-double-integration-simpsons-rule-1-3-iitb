@@ -1,1 +1,1 @@
-## Integration - Double Integration Simpson's (1/3rd) Rule
+## Differentiation - Divided Difference
